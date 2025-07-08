@@ -33,12 +33,17 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 
 ### 🎨 Frontend Technologies  
-![Frontend](https://skillicons.dev/icons?i=js,ts,react,emotion,tauri)
+![Frontend](https://skillicons.dev/icons?i=react,js,ts,emotion)
 
 ---
 
 ### 🛠️ Backend Technologies  
 ![Backend](https://skillicons.dev/icons?i=spring,java,django,python,express,nodejs,tauri,rust,go)
+
+---
+
+### 📱 Native Technologies  
+![Backend](https://skillicons.dev/icons?i=swift)
 
 ---
 
