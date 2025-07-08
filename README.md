@@ -9,8 +9,6 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/SuniPro)
 
-> Want to see more? Scroll up to see my full commit graph 🌟
-
 ---
 
 ## 📊 GitHub Stats
