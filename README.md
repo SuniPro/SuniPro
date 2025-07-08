@@ -27,7 +27,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 
 ### 🎨 Frontend Technologies  
-![Frontend](https://skillicons.dev/icons?i=react,html,css,emotion,tailwind)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,emotion,tauri)
 
 ---
 
@@ -37,7 +37,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 
 ### ⚙️ DevOps & Infrastructure  
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,github)
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins)
 
 ---
 
@@ -47,7 +47,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 
 ### 🧰 Other Tools & Services  
-![Others](https://skillicons.dev/icons?i=netlify,firebase,npm,mui)
+![Others](https://skillicons.dev/icons?i=netlify,firebase,npm,mui,github)
 
 ---
 
