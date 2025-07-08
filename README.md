@@ -14,7 +14,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/so-sunhyeun-90bb56242)
-- [X / Twitter](https://x.com/ariel250225)
+- [Telegram](https://t.me/SUNI_AIR)
 - [GitHub](https://github.com/SuniPro)
 
 ---
