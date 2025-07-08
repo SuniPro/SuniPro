@@ -14,6 +14,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/so-sunhyeun-90bb56242)
+- [X / Twitter](https://x.com/ariel250225)
 - [GitHub](https://github.com/SuniPro)
 
 ---
@@ -28,12 +29,10 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ### 🎨 Frontend Technologies  
 ![Frontend](https://skillicons.dev/icons?i=react,html,css,emotion,tailwind)
 
-> 💡 *Note: `tauri`, `webstorm` 아이콘은 skillicons에 없기 때문에 생략됨. 원하면 커스텀 뱃지로 넣어줄 수 있어요.*
-
 ---
 
 ### 🛠️ Backend Technologies  
-![Backend](https://skillicons.dev/icons?i=spring,django,nodejs,python,go,java)
+![Backend](https://skillicons.dev/icons?i=spring,django,nodejs,python,go,java,tauri)
 
 ---
 
@@ -45,8 +44,6 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ### 🗃️ Databases  
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
-> 💡 *MariaDB는 skillicons에 없기 때문에 생략됨.*
-
 ---
 
 ### 🧰 Other Tools & Services  
@@ -54,4 +51,4 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos and projects 🙌  
+Thanks for stopping by! Feel free to explore my repos and connect 🙌
