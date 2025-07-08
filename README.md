@@ -38,7 +38,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 
 ### 🛠️ Backend Technologies  
-![Backend](https://skillicons.dev/icons?i=spring,java,django,python,nodejs,express,tauri,rust,go)
+![Backend](https://skillicons.dev/icons?i=spring,java,django,python,express,nodejs,tauri,rust,go)
 
 ---
 
