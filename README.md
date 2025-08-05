@@ -26,13 +26,11 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ---
 ## 💻 Skills
 
-### 🧑🏻‍💻 Programming Languages Usage Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuniPro&layout=pie&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🧠 Programming Languages  
 ![Languages](https://skillicons.dev/icons?i=js,ts,java,python,go,rust,swift)
+
+### 🧑🏻‍💻 Programming Languages Usage Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuniPro&layout=pie&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
