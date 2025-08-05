@@ -27,7 +27,7 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 ## 💻 Skills
 
 ### 🧑🏻‍💻 Programming Languages Usage Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolranlee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuniPro)
 
 ---
 
