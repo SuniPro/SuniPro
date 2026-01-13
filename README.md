@@ -11,10 +11,6 @@ I'm a full-stack developer focused on immersive video experiences, modern UI arc
 
 ---
 
-## 📊 GitHub Stats
-[![Suni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuniPro)](https://github.com/anuraghazra/github-readme-stats)
----
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/so-sunhyeun-90bb56242)
